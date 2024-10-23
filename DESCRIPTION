@@ -1,0 +1,17 @@
+Package: SampleCCMatchedlMulti
+Title: Calculo de Tamano Muestral para Casos y Controles Pareados
+Version: 0.1.0
+Authors@R: 
+    person("Victor J.", "Vera-Ponce", email = "victor_jvp@hotmail.com",
+           role = c("aut", "cre"))
+Description: Herramientas para calcular tamanos muestrales en estudios
+    de casos y controles pareados, considerando diferentes aproximaciones
+    metodologicas incluyendo el efecto de covariables y aspectos logisticos
+    del estudio.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    stats
+LazyData: true
